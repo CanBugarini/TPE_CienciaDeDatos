@@ -646,4 +646,5 @@ FodyWeavers.xsd
 *.msp
 
 # Official VS Code C# Dev Kit Extension exclusion
-#*.lscache
+#*.lscachecalendar.csv
+listings (1).csv
