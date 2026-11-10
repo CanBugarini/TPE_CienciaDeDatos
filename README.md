@@ -16,6 +16,7 @@ proyecto-ciencia-de-datos/
 ├── entrega.ipynb              # Notebook con todos los análisis
 ├── requirements.txt           # Dependencias del proyecto
 ├── listings (1).csv.gz        # Dataset utilizado
+├── calendar.csv.gz            # Dataset utilizado
 └── README.md                  # Documentación e instrucciones
 ```
 
