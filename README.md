@@ -13,7 +13,7 @@ El repositorio está organizado de la siguiente manera:
 ```text
 proyecto-ciencia-de-datos/
 │
-├── prueba4.ipynb              # Notebook con todos los análisis
+├── entrega.ipynb              # Notebook con todos los análisis
 ├── requirements.txt           # Dependencias del proyecto
 ├── listings (1).csv.gz        # Dataset utilizado
 └── README.md                  # Documentación e instrucciones
@@ -121,7 +121,7 @@ jupyter lab
 
 Una vez iniciado:
 
-1. Abrir el archivo `prueba4.ipynb`.
+1. Abrir el archivo `entrega.ipynb`.
 2. Seleccionar el kernel **Python (Proyecto Ciencia de Datos)**.
 3. Verificar que los archivos CSV estén ubicados en el directorio raíz.
 4. Ejecutar las celdas en orden, desde la primera hasta la última.
